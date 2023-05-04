@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">task4</string>
+    <string name="search"> Search "cake" </string>
+    <string name="textview1">Xero Food</string>
+    <string name="bill">On Bill Payments</string>
+    <string name="offer">Offer Will be Provide in the Next Screen</string>
+    <string name="textl">For 3 months at $245. You are or 3 months at $245. Yo now getting 15% OFF on this or 3 months at $245. Yo billFor 3 months at $245. You are or 3 months at $245. now getting 15% OFF on this</string>
+</resources>

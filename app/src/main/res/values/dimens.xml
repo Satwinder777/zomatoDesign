@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_14sdp">14dp</dimen>
+    <dimen name="dp3">300dp</dimen>
+    <dimen name="_18sdp">18sp</dimen>
+    <dimen name="_26sp">26sp</dimen>
+    <dimen name="d1">8dp</dimen>
+    <dimen name="d2">16dp</dimen>
+    <dimen name="ht">18sp</dimen>
+    <dimen name="default_margin">18sp</dimen>
+</resources>
